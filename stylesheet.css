@@ -1,0 +1,72 @@
+/* css document */
+
+
+
+#contactme{
+    text-align: left;
+}
+
+#title {
+    font-family: Verdana;
+}
+
+a {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: unset;
+    font-weight: bolder;
+    text-decoration: none;
+    color: black;
+}
+
+#container {
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-size: large;
+}
+
+
+
+#nav {
+    float: left;
+    background-color: whitesmoke;
+    text-align: center;
+}        
+
+body {
+    background-image: url("Photos/darkerphoto2.jpg");
+    background-size: 1900px;
+    background-position: top;
+    background-repeat: repeat-y;
+
+}
+
+#container {
+    background-color: whitesmoke;
+    width: 825px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#footer {
+    text-align: center;
+    height: auto;
+    opacity: 0.85;
+    text-decoration-color: thistle;
+    font-style: times ;
+    background-color: whitesmoke;
+    opacity: 0.85;
+}
+
+#header {
+    text-align: center;
+    height: auto;
+    opacity: 0.85;
+    background-color: whitesmoke;
+    width: auto;
+    
+    
+    
+
+}
